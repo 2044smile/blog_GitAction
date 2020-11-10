@@ -1,6 +1,8 @@
 # blog_GitAction
 
-Git Action 으로 CI/CD를 구축하는 예제
+### Flow 
+
+### Git Action 으로 CI/CD를 구축하는 예제
 
 - PullRequest (CI) 검증
   - Pylint, Pytest
