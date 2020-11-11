@@ -10,3 +10,7 @@
 - Release (CD) -> 운영환경 Deploy
 
 ### Reference
+
+- CI/CD란 무엇인가?
+- pytest
+- GitAction
