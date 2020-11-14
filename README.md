@@ -10,3 +10,6 @@
 - Release (CD) -> 운영환경 Deploy
 
 ### Reference
+
+- Git Action
+- Pytest
