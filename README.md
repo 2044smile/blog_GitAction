@@ -1,6 +1,8 @@
 # blog_GitAction
 
 ### Flow 
+- Git Tag develop
+- Git Release product
 
 ### Git Action 으로 CI/CD를 구축하는 예제
 
